@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.12.6/fac216b606c1086e36acea6e572ee61572ad1670/jackson-databind-2.12.6.jar" sourcepath="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.12.6/84537e23c5f821b450315c50a3048f9b0489e831/jackson-databind-2.12.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" sourcepath="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/764fbcf20fe348c23338b3f8a7373c9e7d206956/lombok-1.18.22-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.12.6/9487231edd6b0b1f14692c9cba9e0462809215d1/jackson-annotations-2.12.6.jar" sourcepath="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.12.6/eaa39c7648bc7d3a4759e5f35855040cf9281bc8/jackson-annotations-2.12.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.4/af7e61017f73abb18ac4e036954f9f28c6366c07/jbcrypt-0.4.jar" sourcepath="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.4/69f76567491266abfba6be8be0eecf55dca852d2/jbcrypt-0.4-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.12.6/5bf206c0b5982cfcd868b3d9349dc5190db8bab5/jackson-core-2.12.6.jar" sourcepath="C:/Users/nilp2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.12.6/cde65a059a0f0e7292a090ca9e70ccbe6d095c7c/jackson-core-2.12.6-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
